@@ -7,3 +7,4 @@ poetry.lock
 dist
 notebooks/checkpoints
 notebooks/data
+notebooks/data2
