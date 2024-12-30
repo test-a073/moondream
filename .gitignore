@@ -5,3 +5,5 @@ data
 /pyproject.toml
 poetry.lock
 dist
+notebooks/checkpoints
+notebooks/data
